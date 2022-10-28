@@ -1,0 +1,209 @@
+[
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 488,
+      "title": "Android Development",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "Learn How To Build Amazing Mobile Games That Can Reach More Than 2 Billion People. And Game Developer Tools. Reach More Than 2 Billion People Using Android Devices. Analyse. Marketing. Grow. Optimize. Privacy & Security. Debugging. Launch & Iterate."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 488,
+      "title": "Microsoft Excel",
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications. Excel forms part of the Microsoft Office suite of software"
+    },
+
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71011",
+      
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_Purchase": 400,
+      "title": "IOS Development",
+      
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "details": "iOS development refers to the process of making mobile applications for Apple hardware, including iPhones and iPads. Objective-C and Swift are the two programming languages that developers can use to build these apps. Apple has three requirements for iOS developers: using a Mac computer running the latest version of macOS, downloading Xcode, and having an active Apple Developer account. Because Apple standardizes iOS development, you're likely to rely on their native APIs and libraries as iOS software development kits (SDKs) as well. If you connect your app to cloud-based services using Apple APIs, you can also use the cloud for storage, database management, and app caching. When you are ready to test your app, you can only do so using an Apple iPhone mobile device. Once the app is complete, and all conditions are met, the final step is listing it in the App Store for iOS users to download."
+    },
+    {
+      "_id": "f69a695f037cd9484cecaea37ca71012",
+      
+      "category_id": "02",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_Purchase": 400,
+      "title": "Tailwind",
+      
+      "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
+      "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables."
+    },
+
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f9",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 980,
+      "title": "Microsoft powerpoint",
+      
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "details": "Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for about $14 million three months after it appeared."
+    },
+    {
+      "_id": "11468ed61aee84de492a8b04158a22f0",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 980,
+      "title": "Flutter Development",      
+      "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
+      "details": "Control every pixel to create customized & adaptive designs that look great on any screen. Take control of your codebase with plugins, testing, dev tools & build high quality apps. Single Codebase. Web Stable. Null Safe Code. Mobile Ads SDK. Hot Reload."
+    },
+
+
+
+    {
+      "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+      
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 733,
+      "title": "Photoshop",
+      
+      "thumbnail_url": "https://i.ibb.co/df3gJ1b/unsplash-Eh-Tc-C9s-YXsw-13.png",
+      "details": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS. It was originally created in 1988 by Thomas and John Knoll. Since then, the software has become the industry standard not only in raster graphics editing, but in digital art as a whole"
+    },
+
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a3",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 127,
+      "title": "Analyst",
+      
+      "thumbnail_url": "https://i.ibb.co/0swsWpF/unsplash-Eh-Tc-C9s-YXsw-17.png",
+      "details": " analysis is a process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making."
+    },
+    {
+      "_id": "f06f8cc035b04bd1158e4198281915a4",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 127,
+      "title": "digital Marketing",
+      
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "details": "Digital marketing is the component of marketing that uses the Internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services"
+    },
+
+    {
+      "_id": "cd2b53655737cc4077542baea9f8f75d",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 700,
+      "title": "React",
+      
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
+    },
+    {
+      "_id": "4e6092d54c18fbd89ad59e88a1e87fbb",
+      
+      "category_id": "07",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 300,
+      "title": "English",
+      
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "English is a West Germanic language of the Indo-European language family, with its earliest forms spoken by the inhabitants of early medieval England. It is named after the Angles, one of the ancient Germanic peoples that migrated to the island of Great Britain"
+    },
+    {
+      "_id": "7c4dfea0fafddc813673282a428429b7",
+      
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 0,
+      "title": "Cross Platform",
+      
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "Cross-platform mobile development: definition and solutions﻿ Multiplatform mobile development is an approach that allows you to build a single mobile application that runs smoothly on several operating systems. In cross-platform apps, some or even all of the source code can be shared."
+    },
+
+    {
+      "_id": "df11ff9feefc37613cc3a4486ce02151",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 552,
+      "title": "HTML and CSS",
+      
+      "thumbnail_url": "https://i.ibb.co/dr4TRY4/unsplash-Eh-Tc-C9s-YXsw-21.png",
+      "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },
+
+
+
+    {
+      "_id": "1b03149c50f1bec662062d930bf46489",
+      
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 546,
+      "title": "Bootstrap",
+      
+      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
+      "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
+    },
+    {
+      "_id": "7f5b80c1cdd4df0111918883eae07349",
+      
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_Purchase": 1870,
+      "title": "Office",
+      "thumbnail_url": "https://i.ibb.co/1vcgPzg/unsplash-Eh-Tc-C9s-YXsw-12.png",
+      "published_date": "2022-08-24 18:00:00",
+      "details": "Microsoft Office, or simply Office, is a family of client software, server software, and services developed by Microsoft. It was first announced by Bill Gates on August 1, 1988, at COMDEX in Las Vegas."
+    },
+    {
+      "_id": "17d266b79d2fcd850cd4d983c3aeb95f",
+      
+      "category_id": "07",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_Purchase": 354,
+      "title": "Bangla",
+      
+      "thumbnail_url": "https://i.ibb.co/j86wjDW/unsplash-Eh-Tc-C9s-YXsw-20.png",
+      "details": "Bengali, generally known by its endonym Bangla, is an Indo-Aryan language native to the Bengal region of South Asia. It is the official, national, and most widely spoken language of Bangladesh and the second most widely spoken of the 22 scheduled languages of India"
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+      
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_Purchase": 100,
+      "title": "SEO",
+      
+      "thumbnail_url": "https://i.ibb.co/L507x2V/unsplash-Eh-Tc-C9s-YXsw-14.png",
+      "details": "Search engine optimization is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic rather than direct traffic or paid traffic"
+    },
+    {
+      "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+      
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+
+      "total_Purchase": 100,
+      "title": "illustrator",
+      
+      "thumbnail_url": "https://i.ibb.co/1rcTYYB/unsplash-Eh-Tc-C9s-YXsw-16.png",
+      "details": "Adobe Illustrator is a vector graphics editor and design program developed and marketed by Adobe Inc. Originally designed for the Apple Macintosh, development of Adobe Illustrator began in 1985. Along with Creative Cloud, Illustrator CC was released"
+    }
+  ]
